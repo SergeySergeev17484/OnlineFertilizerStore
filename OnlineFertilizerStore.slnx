@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BusinessLogic/BusinessLogic.csproj" />
+    <Project Path="src/DataAccess/DataAccess.csproj" />
+    <Project Path="src/OnlineFertilizerStore/Services.csproj" />
+  </Folder>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+  </Folder>
+</Solution>
